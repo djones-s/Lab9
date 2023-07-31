@@ -9,7 +9,7 @@ struct RecordType
 	int	order; 
 };
 
-#define hashSize 64 //arbitrary value?
+#define hashSize 64 
 // Fill out this structure
 struct HashType
 {
